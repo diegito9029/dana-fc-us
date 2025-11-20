@@ -1,0 +1,79 @@
+Building User Features and Segmentation
+
+Introduction
+
+Welcome to the data science take-home test. The purpose of this test is to evaluate your ability to analyze transactional data, engineer meaningful user features, and perform user segmentation. Be creative and explore user features listed here, but ensure all assumptions are data-driven and clearly explained.
+
+Objective
+
+1. Feature Creation: Derive user features from the provided transactional dataset.
+2. User Segmentation: Segment users based on the derived features and transactional data.
+
+Dataset Overview
+• transaction_id: Unique identifier for each transaction.
+• user_id: Unique identifier for each user.
+• transaction_amount: The amount of money transacted.
+• transaction_date: The date and time when the transaction occurred.
+• merchant_id: Unique identifier for the merchant.
+• merchant_name: Name of the merchant.
+• merchant_category_id: Identifier for the category of the merchant (Visa MCC category ID).
+• geo_location: The geographical location of the transaction (latitude and longitude).
+• payment_method: Method of payment used (balance, credit_card).
+• user_agent: Type of device used for the transaction
+• loyalty_program: Indicates whether the user is part of a loyalty program (yes, no).
+• discount_applied: Indicates whether a discount was applied to the transaction (yes, no).
+• promo_amount: The amount discounted due to promotions.
+• transaction_notes: Additional notes or descriptions related to the transaction.
+• merchant_rating: User's rating of the merchant (if applicable, on a scale of 1-5).
+• transaction_status: Status of the transaction
+• is_refunded: Indicates whether the transaction was refunded
+
+
+Required User Features
+Engineer the following user features and explain your methodology for each. Remember, be as creative as possible.
+
+1st Priority | 2nd Priority
+Big Five Personality Score | Working Status
+Gender | Industry of Employment
+Age | Health Status
+Income Level | Homeownership Status
+Educational Background | Marital Status
+Home Location | Parental Status
+Work Location | Vehicle ownership
+
+Example: You can estimate age by analyzing transaction types and times, as younger users may have different spending patterns and merchant preferences.
+
+User segmentation
+After deriving the user features, perform segmentation to identify distinct user groups. Develop a story and methodology to explain the segmentation and describe the characteristics of each segment.
+
+There is no restriction on the types of segments you need to find. Create as many user segments as you can identify.
+
+Example: Office workers with 9-5 jobs, who are married, have kids, and make expensive purchases monthly.
+
+P.S : Extra points if you can find segmentation other than traditional method like RFM
+
+
+Submission
+
+1. Python code or notebook that used for exploration, features creation, and segmentation
+2. A document that includes
+   • Explanation of reasoning and methodology used for each feature that engineered, including and assumptions and findings
+   • Summary of user segments identified, including key characteristics of each segment
+
+Evaluation Criteria
+
+1. Correctness: Logical creation of features.
+2. Creativity: Innovative and meaningful feature creation.
+3. Clarity: Clear communication of methods and results.
+4. Technical Proficiency: Neat, efficient, and scalable code.
+5. Insightfulness: Insights gained from the data and rationale for segmentation.
+
+Evaluation Weight
+
+1. Report & Code: 10%
+2. Data Analysis: 10%
+3. User Features Engineering: 55%
+4. User Segmentation: 25%
+
+Dataset
+Transactions Dataset
