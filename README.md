@@ -2,7 +2,7 @@
 
 This project contains the full workflow and documentation for engineering user-level behavioural features from transaction data and performing segmentation using K-Means clustering. It transforms raw transaction logs into interpretable behavioural, psychographic, and lifestyle features, and then identifies meaningful user segments through unsupervised learning.
 
-Feel free to inspect each part, run it locally, and modify as needed. Click here to learn more about the project.
+Feel free to inspect each part, run it locally, and modify as needed. [Click here to learn more about the project](https://github.com/verneylmavt/dana-tht/blob/1c58b32aec71444be3f083d61a7f331d5cb3385a/data/test.txt).
 
 ## 📁 Project Structure
 
@@ -36,13 +36,12 @@ dana-tht
    pip install -r requirements.txt
    ```
 
-3. Place your `transactions.csv` file in `./data/transactions.csv`
-4. Open the `user_features_segmentation_code.ipynb` in Jupyter Notebook:
+3. Open the `user_features_segmentation_code.ipynb` in Jupyter Notebook:
    ```bash
    jupyter notebook user_features_segmentation_code.ipynb
    ```
-5. Run all cells sequentially from top to bottom  
+4. Run all cells sequentially from top to bottom  
    The notebook is designed so that each section depends on the previous one.
-6. Review outputs
-7. Refer to the report  
+5. Review outputs
+6. Refer to the report  
    For interpretation, assumptions, and insights, read `user_features_segmentation_report.docx`.
