@@ -2,12 +2,12 @@
 
 This project contains the full workflow and documentation for engineering user-level behavioural features from transaction data and performing segmentation using K-Means clustering. It transforms raw transaction logs into interpretable behavioural, psychographic, and lifestyle features, and then identifies meaningful user segments through unsupervised learning.
 
-Feel free to inspect each part, run it locally, and modify as needed. [Click here to learn more about the project](https://github.com/verneylmavt/dana-tht/blob/1c58b32aec71444be3f083d61a7f331d5cb3385a/data/test.txt).
+Feel free to inspect each part, run it locally, and modify as needed. [Click here to learn more about the project](https://github.com/verneylmavt/dana-fc-us/blob/1c58b32aec71444be3f083d61a7f331d5cb3385a/data/test.txt).
 
 ## 📁 Project Structure
 
 ```
-dana-tht
+dana-fc-us
 │
 ├─ data/
 │  ├─ test.txt
@@ -24,9 +24,18 @@ dana-tht
 
 ## ⚙️ Local Setup
 
-1. Make sure to have the prerequisites:
+0. Make sure to have the prerequisites:
+
    - Python
    - Conda or venv
+
+1. Clone the repository:
+
+   ```bash
+    git clone https://github.com/verneylmavt/dana-fc-us.git
+    cd dana-fc-us
+   ```
+
 2. Create environment and install dependencies:
 
    ```bash
