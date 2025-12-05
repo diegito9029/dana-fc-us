@@ -19,7 +19,7 @@ dana-fc-us
 └─ requirements.txt
 ```
 
-- `user_features_segmentation_code.ipynb`: Contains the complete Python code for data cleaning, feature engineering, derived behavioural scoring, and user segmentation (K-Means + PCA visualization).
+- `user_features_segmentation_code.ipynb`: A detailed jupyter noteboook containing the complete Python code for data cleaning, feature engineering, derived behavioural scoring, and user segmentation (K-Means + PCA visualization).
 - `user_features_segmentation_report.docx`: A detailed analytical report explaining the reasoning, methodology, and findings for all engineered features and the segmentation results.
 
 ## ⚙️ Local Setup
