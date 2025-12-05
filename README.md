@@ -9,13 +9,11 @@ Feel free to inspect each part, run it locally, and modify as needed. [Click her
 ```
 dana-fc-us
 │
-├─ data/
-│  ├─ test.txt
+├─ assets/
 │  └─ transactions.csv
 │
 ├─ user_features_segmentation_code.ipynb
 ├─ user_features_segmentation_report.docx
-├─ README.md
 └─ requirements.txt
 ```
 
