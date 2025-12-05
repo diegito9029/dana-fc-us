@@ -2,7 +2,7 @@
 
 This project contains the full workflow and documentation for engineering user-level behavioural features from transaction data and performing segmentation using K-Means clustering. It transforms raw transaction logs into interpretable behavioural, psychographic, and lifestyle features, and then identifies meaningful user segments through unsupervised learning.
 
-Feel free to inspect each part, run it locally, and modify as needed. [Click here to learn more about the project](https://github.com/verneylmavt/dana-fc-us/blob/1c58b32aec71444be3f083d61a7f331d5cb3385a/data/test.txt).
+Feel free to inspect each part, run it locally, and modify as needed. [Click here to learn more about the project](https://github.com/verneylmavt/dana-fc-us/blob/43f82c8eb1216a750518906acac4f7b1a0e49f02/assets/test.txt).
 
 ## 📁 Project Structure
 
