@@ -9,7 +9,7 @@ Feel free to inspect each part, run it locally, and modify as needed. [Click her
 ```
 dana-fc-us
 │
-├─ assets/
+├─ data/
 │  └─ transactions.csv
 │
 ├─ user_features_segmentation_code.ipynb
