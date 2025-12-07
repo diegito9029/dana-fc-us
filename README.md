@@ -38,8 +38,8 @@ dana-fc-us
 2. Create environment and install dependencies:
 
    ```bash
-   conda create --name dana python=3.10
-   conda activate dana
+   conda create --name dana-fc-us python=3.10
+   conda activate dana-fc-us
 
    pip install -r requirements.txt
    ```
